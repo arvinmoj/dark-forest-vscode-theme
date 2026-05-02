@@ -31,5 +31,8 @@
     "type": "git",
     "url": "https://github.com/arvinmoj/dark-forest-vscode-theme"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "@vscode/vsce": "^3.9.1"
+  }
 }
