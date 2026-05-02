@@ -11,25 +11,25 @@ Dark forest-themed VS Code theme with deep teal hues and vibrant orange accents.
 4. Go to **Settings** → **Color Theme** and select `dark-forest`
 
 ### JavaScript
-![JavaScript](images/js.png)
+![JavaScript](https://raw.githubusercontent.com/arvinmoj/dark-forest-vscode-theme/main/images/js.png)
 
 ### TypeScript
-![TypeScript](images/ts.png)
+![TypeScript](https://raw.githubusercontent.com/arvinmoj/dark-forest-vscode-theme/main/images/ts.png)
 
 ### Python
-![Python](images/py.png)
+![Python](https://raw.githubusercontent.com/arvinmoj/dark-forest-vscode-theme/main/images/py.png)
 
 ### Go
-![Go](images/go.png)
+![Go](https://raw.githubusercontent.com/arvinmoj/dark-forest-vscode-theme/main/images/go.png)
 
 ### Rust
-![Rust](images/rs.png)
+![Rust](https://raw.githubusercontent.com/arvinmoj/dark-forest-vscode-theme/main/images/rs.png)
 
 ### C#
-![C#](images/cs.png)
+![C#](https://raw.githubusercontent.com/arvinmoj/dark-forest-vscode-theme/main/images/cs.png)
 
 ### JSON
-![JSON](images/json.png)
+![JSON](https://raw.githubusercontent.com/arvinmoj/dark-forest-vscode-theme/main/images/json.png)
 
 ### YAML
-![YAML](images/yaml.png)
+![YAML](https://raw.githubusercontent.com/arvinmoj/dark-forest-vscode-theme/main/images/yaml.png)
