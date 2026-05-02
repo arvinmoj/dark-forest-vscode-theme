@@ -1,0 +1,35 @@
+{
+  "name": "dark-forest-theme-vscode",
+  "version": "0.1.0",
+  "publisher": "arvin-moj",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark",
+    "forest",
+    "teal",
+    "orange"
+  ],
+  "icon": "icon.png",
+  "displayName": "Dark Forest Theme VSCode",
+  "description": "Dark forest-themed VS Code theme with deep teal hues and vibrant orange accents.",
+  "contributes": {
+    "themes": [
+      {
+        "label": "dark-forest",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark-forest-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arvinmoj/dark-forest-vscode-theme"
+  },
+  "license": "MIT"
+}

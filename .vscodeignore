@@ -1,0 +1,10 @@
+.vscode/**
+.git/**
+*.vsix
+node_modules/**
+src/**
+tests/**
+*.md
+!README.md
+!CHANGELOG.md
+!LICENSE
